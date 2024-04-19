@@ -1,0 +1,7 @@
+Smtp2Sms Sender
+
+This tool is able to send sms by using smtp for some specific carrier that are allow to receive sms . I coded this tool for UK,USA as a testing purpose and it's working fine. I used Crack smtp and it was working fine.I can code for you custom country if they allow otherwise can't .
+If you wanna buy or custom order hit me in telegram @alexrony21
+
+Time waster don't come.
+Thanks
